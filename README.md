@@ -2,7 +2,8 @@
 
 https://curriculofatec.netlify.app
 
-📝 Descrição
+📝 Descrição:
+
 Este é meu primeiro projeto postado no GitHub onde simulei um curriculo on-line
 
 📚 Funcionalidades
