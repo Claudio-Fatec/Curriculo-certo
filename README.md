@@ -6,7 +6,7 @@
 Este é meu primeiro projeto postado no GitHub onde simulei um curriculo on-line
 
 📚 Funcionalidades
-Demonstra um exemplo de site com abas funcionais (/abas.JPG)  
+Demonstra um exemplo de site com abas funcionais (./abas.JPG)  
 
 🔧 Tecnologias utilizadas
 Feito em HTML e CSS no VS Code
