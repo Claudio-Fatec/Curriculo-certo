@@ -1,6 +1,5 @@
 # Curriculo-certo
 
-https://curriculofatec.netlify.app
 
 📝 Descrição:
 
@@ -14,7 +13,9 @@ Feito em HTML e CSS no VS Code
 
 🚀 Rodando o projeto
 Acessar direto no navegador.
-<linha de comando>
+
+https://curriculofatec.netlify.app
+
 
   🔜 Implementação futura
 O que será implementado na próxima sprint?
