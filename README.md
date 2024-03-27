@@ -7,14 +7,13 @@ https://curriculofatec.netlify.app
 Este é meu primeiro projeto postado no GitHub onde simulei um curriculo on-line
 
 📚 Funcionalidades
-Funcionalidade 1: O que essa funcionalidade faz?
+Demonstra um exemplo de site com abas funcionais
 
 🔧 Tecnologias utilizadas
-Tecnologia;
+Feito em HTML e CSS no VS Code
 
 🚀 Rodando o projeto
-Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
-
+Acessar direto no navegador.
 <linha de comando>
 
   🔜 Implementação futura
