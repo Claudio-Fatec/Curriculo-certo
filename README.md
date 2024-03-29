@@ -13,7 +13,7 @@ Feito em HTML e CSS no VS Code
 🚀 Rodando o projeto
 Acessar direto no navegador.
 
-https://curriculofatec.netlify.app
+(https://lambent-mochi-431182.netlify.app)
 
 
   🔜 Implementação futura
