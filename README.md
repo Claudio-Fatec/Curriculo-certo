@@ -16,5 +16,4 @@ Acessar direto no navegador.
 (https://lambent-mochi-431182.netlify.app)
 
 
-  🔜 Implementação futura
-O que será implementado na próxima sprint?
+
