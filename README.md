@@ -9,7 +9,7 @@ Este é meu primeiro projeto postado no GitHub onde simulei um curriculo on-line
 Demonstra um exemplo de site com abas funcionais <img src="./abas.JPG">
 🔧 Tecnologias utilizadas
 Feito em HTML e CSS no VS Code
-
+Com icones de contatos funcionais. <img src="./icones.png">
 🚀 Rodando o projeto
 Acessar direto no navegador.
 
